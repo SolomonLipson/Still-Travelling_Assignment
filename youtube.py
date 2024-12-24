@@ -123,7 +123,7 @@ def main():
     genre = input("Enter the genre: ")
 
     # API Key for YouTube API
-    api_key = "AIzaSyDCFtkItHA0c-Pq2DDFG9LcFTkTo7yVs0U"  # Replace with your actual API key
+    api_key = "Write this API here"  # Replace with your actual API key
 
     # Initialize YouTubeDataScraper and CSVExporter
     scraper = YouTubeDataScraper(api_key)
